@@ -631,8 +631,8 @@ export const animeEndings = [
   },
   {
     name: "Hanma Baki vs. Kengan Ashura - Don't Stay by Lead",
-    videoId: "dQw4w9WgXcQ",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    videoId: "https://files.catbox.moe/nwwkmq.mp4",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "ED"
@@ -662,6 +662,16 @@ export const animeEndings = [
   {
     name: "Trapezium - Houi Jishin by Asaki Yuikawa, Hina Youmiya, Reina Ueda, Haruka Aikawa",
     videoId: "https://files.catbox.moe/ywan2r.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "Dead Dead Demons Dededede Destruction (ONA) - ZeZeZeZettai Seiiki by ano feat. Lilas Ikuta",
+    videoId: "https://files.catbox.moe/ymlgcu.mp4",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
